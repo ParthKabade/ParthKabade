@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>* Java & Spring Boot — REST APIs, Microservices, Hibernate/JPA<br>* C/C++ & Linux — system programming, socket programming, multithreading, OS concepts<br>* Databases — MySQL, MongoDB, PostgreSQL<br>* DSA, OOP, DBMS, Operating Systems, and Computer Networks 
+🔭 I’m currently working on<br>*Python Developer | Building Automation, Backend Systems & Machine Learning Projects 🐍🤖 <br>*Java & Spring Boot — REST APIs, Microservices, Hibernate/JPA<br>* C/C++ & Linux — system programming, socket programming, multithreading, OS concepts<br>* Databases — MySQL, MongoDB, PostgreSQL<br>* DSA, OOP, DBMS, Operating Systems, and Computer Networks 
 
 
 ## 🌐 Socials:
