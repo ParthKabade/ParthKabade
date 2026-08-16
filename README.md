@@ -16,6 +16,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=ParthKabade&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ParthKabade&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
 [![](https://visitcount.itsvg.in/api?id=ParthKabade&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
