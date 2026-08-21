@@ -12,9 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=ParthKabade&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ParthKabade&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ParthKabade&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 <img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
