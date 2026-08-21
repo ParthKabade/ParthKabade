@@ -16,5 +16,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=ParthKabade&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
